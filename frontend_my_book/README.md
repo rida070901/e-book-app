@@ -1,16 +1,5 @@
-# my_book
+# my_book_app
 
-an e-book app
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Users register in the application using their personal data: username, first name, last name, email, password. After registering, they must confirm the registration from a link sent to them by email, then they can log in to the application and log out. The user is shown the home page which contains a list of popular books, another list of books that have been recently published, a list of books sorted by lowest price and a random list. They can view the details of each book: the author along with the author's profile and a list of all books published by that author, the book's category, description and other details, they can also view the list of chapters along with the respective titles that they cannot access without first making a credit card payment. Users can also like books and see the list of liked books. They can view the history of successful and failed purchases, the list of books they have purchased and search for books by title and author. Another important functionality is the ability to start a chat with an author and display a list of messages with different authors.
+On the other hand, there are 2 levels for the administrator: Super Admin who can access and modify all data, can only view and export all purchases (Orders): successful or unsuccessful, access/modify books and chapters of all authors and can also create/delete or modify admin accounts of Authors, while Author Admin can only access books and chapters published by themself and create or modify them from the Admin Panel, and author also has a different app (from the user application) where he can log in and respond to messages from users (readers).
+In building the application, the following technologies were used: Frontend: Flutter SDK (Dart), Backend is implemented by Laravel Admin Panel (php). MySQL was used for the database.
