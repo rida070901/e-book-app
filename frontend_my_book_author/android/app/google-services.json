@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "265702194077",
+    "project_id": "my-book-482ab",
+    "storage_bucket": "my-book-482ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:265702194077:android:6a1bc68e11248dc7bd8d74",
+        "android_client_info": {
+          "package_name": "com.eridaa2001.my_book"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "265702194077-iu5ucmju82futn2tkeirg1tve22gkkeg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzzNGuxsU12IcdBCCtU7LLQeG2DltwM1c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "265702194077-iu5ucmju82futn2tkeirg1tve22gkkeg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "265702194077-b8rcegtbue43ed55ojkd9tvi67ggsf8s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.eridaa2001.myBook"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:265702194077:android:ab9e5608daea011cbd8d74",
+        "android_client_info": {
+          "package_name": "com.eridaa2001.my_book_author"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "265702194077-iu5ucmju82futn2tkeirg1tve22gkkeg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzzNGuxsU12IcdBCCtU7LLQeG2DltwM1c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "265702194077-iu5ucmju82futn2tkeirg1tve22gkkeg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "265702194077-b8rcegtbue43ed55ojkd9tvi67ggsf8s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.eridaa2001.myBook"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
